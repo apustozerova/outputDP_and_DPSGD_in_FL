@@ -1,2 +1,1 @@
-# dp_fl
-Differentially Private Federated Learning
+# Differentially Private Federated Learning
