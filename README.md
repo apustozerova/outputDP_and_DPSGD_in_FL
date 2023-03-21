@@ -9,10 +9,15 @@ Files
     
     'attack.py' : contains methods allowing to perform memberhsip inference attack
     
+    'federated.py' : contains methods allowing to execute federated learning
     
-
+    'scripts.py' : contains methods allowing to perform output perturbetion
+    
+    'main.py' : allows training logistic regression in centralised setting with DP SGD and Output Perturbation
+    
+    'fl_main.py' : allows training logistic regression in federeated setting with DP SGD and Output Perturbation
+    
+    
 Usage
 
-To use these scripts, you will need to have Python3.10 installed on your system. You can recreate conta environment from 'newenv.yml'.
-
-  'newenv.yml': allows to create conda environtment with all necessary libraries and frameworks
+To use these scripts, you will need to have Python3.10 installed on your system. You can recreate conta environment from 'newenv.yml', containing all necessary libraries and frameworks.
